@@ -1,0 +1,19 @@
+{
+	"public":{
+		"app_url": {
+			"dev": "http://localhost:3000",
+			"prod": "https://www.opz.io"
+		}
+	},
+	"APP_URL": "https://www.opz.io",
+	"REMOTE_URL": "mongodb://admin:t34m0Pz10_1984#law@ds123751-a0.mlab.com:23751,ds123751-a1.mlab.com:23751/opz-app?replicaSet=rs-ds123751&connectTimeoutMS=240000&socketTimeoutMS=240000",
+	
+	"app_mongo_url": {
+		"dev": "mongodb://localhost:3001/meteor",
+		"prod": "mongodb://admin:t34m0Pz10_1984#law@ds123751-a0.mlab.com:23751,ds123751-a1.mlab.com:23751/opz-app?replicaSet=rs-ds123751&connectTimeoutMS=240000&socketTimeoutMS=240000"
+	},
+	"app_url": {
+		"dev": "http://localhost:3000",
+		"prod": "https://www.opz.io"
+	}
+}
